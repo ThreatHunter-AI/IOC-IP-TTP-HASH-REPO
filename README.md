@@ -1,5 +1,4 @@
 ThreatHunter.ai 1MC Labs
 
-Occasional dumps of fresh bad IPs
+Repo has IPs, Hashes, and other items. These should be considered informational only. They were of interest to us at one point, and are not correlated.
 
-Use/block at your own risk
